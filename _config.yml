@@ -5,7 +5,7 @@ title:               'Literary Edition'
 tagline:             'my local one'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/ed_project'
 
 # About/contact
 author:
